@@ -39,7 +39,7 @@ const AboutPage = () => {
         </Col>
         <Col>
           <Card className="bg-light mt-3">
-            <blockQuote>
+            <blockquote>
               <p>
                 I will not follow where the path may lead, but I will go where
                 there is no path, and I will leave a trail.
@@ -50,7 +50,7 @@ const AboutPage = () => {
                   "Wind-Wafted Wild Flowers" - The Open Court, 1903
                 </cite>
               </footer>
-            </blockQuote>
+            </blockquote>
           </Card>
         </Col>
       </Row>
