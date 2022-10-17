@@ -68,7 +68,7 @@ const UserLoginForm = () => {
                   name="username"
                   placeholder="Username"
                   className="form-control"
-                ></Field>
+                />
                 <ErrorMessage name="username">
                   {(msg) => <p className="text-danger">{msg}</p>}
                 </ErrorMessage>
@@ -80,7 +80,7 @@ const UserLoginForm = () => {
                   name="password"
                   placeholder="Password"
                   className="form-control"
-                ></Field>
+                />
                 <ErrorMessage name="password">
                   {(msg) => <p className="text-danger">{msg}</p>}
                 </ErrorMessage>
